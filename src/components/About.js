@@ -1,4 +1,4 @@
-// import photo from '../assets/about-me-photo.png';
+import photo from '../assets/my_portrait.JPG';
 
 function About() {
   // return JSX with my photo and short bio
